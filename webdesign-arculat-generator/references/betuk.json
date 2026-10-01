@@ -1,0 +1,858 @@
+{
+ "leiras": "Google Fonts betűk, amelyekben ELLENŐRIZVE van latin-ext (magyar ő, ű). A 'tengely' a css2 API paramétere (variable fontnál tartomány).",
+ "ellenorizve": "2026-09-26",
+ "betuk": [
+  {
+   "csalad": "Alfa Slab One",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "vastag slab plakát; vendéglő, kocsma, retro"
+  },
+  {
+   "csalad": "Dela Gothic One",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "nagyon vastag, japános; street food, ramen"
+  },
+  {
+   "csalad": "Lilita One",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "vastag, vidám; játék, sport"
+  },
+  {
+   "csalad": "Passion One",
+   "tengely": "wght@400;700",
+   "szerep": "cim-display",
+   "karakter": "plakát; akció"
+  },
+  {
+   "csalad": "Paytone One",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "vastag, kerek; food, akció"
+  },
+  {
+   "csalad": "Rammetto One",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "retro, vastag; cukrászda, retro"
+  },
+  {
+   "csalad": "Righteous",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "retro-kerek display; bár, burger, retro"
+  },
+  {
+   "csalad": "Tilt Warp",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "játékos 3D-s; fiatalos"
+  },
+  {
+   "csalad": "Titan One",
+   "tengely": "",
+   "szerep": "cim-display",
+   "karakter": "gömbölyű plakát; gyerek, édesség"
+  },
+  {
+   "csalad": "Baloo 2",
+   "tengely": "wght@400..800",
+   "szerep": "cim-kerek",
+   "karakter": "kerek, vastag, vidám; gyerek, fagyi, család"
+  },
+  {
+   "csalad": "Fredoka",
+   "tengely": "wght@400..700",
+   "szerep": "cim-kerek",
+   "karakter": "kerek, puha, gyerekbarát; játék, óvoda, desszert"
+  },
+  {
+   "csalad": "Rubik",
+   "tengely": "wght@400..900",
+   "szerep": "cim-kerek",
+   "karakter": "enyhén kerekített; barátságos szolgáltatás"
+  },
+  {
+   "csalad": "Archivo Narrow",
+   "tengely": "wght@400..700",
+   "szerep": "cim-keskeny",
+   "karakter": "keskeny grotesk; címkék, adatok"
+  },
+  {
+   "csalad": "Barlow Condensed",
+   "tengely": "wght@400;700;800",
+   "szerep": "cim-keskeny",
+   "karakter": "keskeny, tiszta; címkék, számok"
+  },
+  {
+   "csalad": "Bebas Neue",
+   "tengely": "",
+   "szerep": "cim-keskeny",
+   "karakter": "plakát, csak nagybetű, 1 vastagság; esemény, sport"
+  },
+  {
+   "csalad": "Big Shoulders Display",
+   "tengely": "wght@400..900",
+   "szerep": "cim-keskeny",
+   "karakter": "ipari-keskeny plakát; street food, műhely, városi"
+  },
+  {
+   "csalad": "Oswald",
+   "tengely": "wght@400..700",
+   "szerep": "cim-keskeny",
+   "karakter": "klasszikus keskeny plakát; fitnesz, autó, esemény"
+  },
+  {
+   "csalad": "Archivo",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "erős, sokoldalú grotesk; sport, ipar"
+  },
+  {
+   "csalad": "Archivo Black",
+   "tengely": "",
+   "szerep": "cim-sans",
+   "karakter": "nagyon vastag plakát; akció, sport"
+  },
+  {
+   "csalad": "Bricolage Grotesque",
+   "tengely": "opsz,wght@12..96,400..800",
+   "szerep": "cim-sans",
+   "karakter": "karakteres, játékos grotesk; kreatív, food, startup"
+  },
+  {
+   "csalad": "Chivo",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "erős grotesk; sport, ipar"
+  },
+  {
+   "csalad": "Darker Grotesque",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "keskenyedő, divatos; kreatív"
+  },
+  {
+   "csalad": "Epilogue",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "geometrikus-grotesk; ügynökség"
+  },
+  {
+   "csalad": "Familjen Grotesk",
+   "tengely": "wght@400..700",
+   "szerep": "cim-sans",
+   "karakter": "barátságos grotesk; szolgáltatás, család"
+  },
+  {
+   "csalad": "Gabarito",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "geometrikus, erős; app, szolgáltatás"
+  },
+  {
+   "csalad": "Mona Sans",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "sokoldalú grotesk; tech, média"
+  },
+  {
+   "csalad": "Outfit",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "geometrikus, barátságos; wellness, app"
+  },
+  {
+   "csalad": "Red Hat Display",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "kerekded, modern; szolgáltatás"
+  },
+  {
+   "csalad": "Schibsted Grotesk",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "újság-grotesk; média, tanácsadó"
+  },
+  {
+   "csalad": "Sora",
+   "tengely": "wght@400..800",
+   "szerep": "cim-sans",
+   "karakter": "geometrikus, tech; app, szoftver"
+  },
+  {
+   "csalad": "Space Grotesk",
+   "tengely": "wght@400..700",
+   "szerep": "cim-sans",
+   "karakter": "technikás grotesk; IT, mérnök"
+  },
+  {
+   "csalad": "Syne",
+   "tengely": "wght@400..800",
+   "szerep": "cim-sans",
+   "karakter": "merész, szélesedő; művészeti, ügynökség"
+  },
+  {
+   "csalad": "Unbounded",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "széles, kerek, modern; esemény, fiatalos márka"
+  },
+  {
+   "csalad": "Urbanist",
+   "tengely": "wght@400..900",
+   "szerep": "cim-sans",
+   "karakter": "geometrikus, elegáns; ingatlan, design"
+  },
+  {
+   "csalad": "Bodoni Moda",
+   "tengely": "opsz,wght@6..96,400..900",
+   "szerep": "cim-serif",
+   "karakter": "divat-kontraszt; luxus, szépségipar"
+  },
+  {
+   "csalad": "Brygada 1918",
+   "tengely": "wght@400..700",
+   "szerep": "cim-serif",
+   "karakter": "régies, nemes; hagyomány, borászat"
+  },
+  {
+   "csalad": "Cormorant Garamond",
+   "tengely": "wght@400..700",
+   "szerep": "cim-serif",
+   "karakter": "finom, klasszikus; bor, esküvő, ékszer (nagy méretben!)"
+  },
+  {
+   "csalad": "DM Serif Display",
+   "tengely": "",
+   "szerep": "cim-serif",
+   "karakter": "elegáns, nagy kontrasztú; butik, szépség, prémium szolgáltatás"
+  },
+  {
+   "csalad": "Fraunces",
+   "tengely": "opsz,wght@9..144,400..900",
+   "szerep": "cim-serif",
+   "karakter": "meleg, puha, kézműves serif; étterem, pékség, család, kézműves"
+  },
+  {
+   "csalad": "Gloock",
+   "tengely": "",
+   "szerep": "cim-serif",
+   "karakter": "karakteres, szerkesztőségi; magazin, galéria"
+  },
+  {
+   "csalad": "Instrument Serif",
+   "tengely": "",
+   "szerep": "cim-serif",
+   "karakter": "vékony, finom, szerkesztőségi (csak 400); tanácsadó, építész, prémium"
+  },
+  {
+   "csalad": "Newsreader",
+   "tengely": "opsz,wght@6..72,400..800",
+   "szerep": "cim-serif",
+   "karakter": "újság-serif; tanácsadó, ügyvéd, szakértő"
+  },
+  {
+   "csalad": "Petrona",
+   "tengely": "wght@400..900",
+   "szerep": "cim-serif",
+   "karakter": "modern, meleg; kávé, kézműves"
+  },
+  {
+   "csalad": "Playfair Display",
+   "tengely": "wght@400..900",
+   "szerep": "cim-serif",
+   "karakter": "klasszikus, divatos kontraszt; trattoria, esküvő, divat"
+  },
+  {
+   "csalad": "Roboto Serif",
+   "tengely": "opsz,wght@8..144,400..900",
+   "szerep": "cim-serif",
+   "karakter": "modern serif; tech-közeli szakértő"
+  },
+  {
+   "csalad": "Young Serif",
+   "tengely": "",
+   "szerep": "cim-serif",
+   "karakter": "vaskos, barátságos régi-stílusú serif; bisztró, kávézó, könyv"
+  },
+  {
+   "csalad": "Bitter",
+   "tengely": "wght@400..900",
+   "szerep": "cim-slab",
+   "karakter": "robusztus slab; ipar, szerviz"
+  },
+  {
+   "csalad": "Montagu Slab",
+   "tengely": "opsz,wght@16..144,400..700",
+   "szerep": "cim-slab",
+   "karakter": "elegáns slab; prémium kézműves"
+  },
+  {
+   "csalad": "Roboto Slab",
+   "tengely": "wght@400..900",
+   "szerep": "cim-slab",
+   "karakter": "semleges slab; iroda, szolgáltatás"
+  },
+  {
+   "csalad": "Zilla Slab",
+   "tengely": "wght@400;700",
+   "szerep": "cim-slab",
+   "karakter": "slab, erős; kivitelező, műhely, autó"
+  },
+  {
+   "csalad": "Azeret Mono",
+   "tengely": "wght@400..800",
+   "szerep": "cimke-mono",
+   "karakter": "geometrikus mono"
+  },
+  {
+   "csalad": "Courier Prime",
+   "tengely": "wght@400;700",
+   "szerep": "cimke-mono",
+   "karakter": "írógép; ügyvéd, forgatókönyv, retro"
+  },
+  {
+   "csalad": "DM Mono",
+   "tengely": "wght@400;500",
+   "szerep": "cimke-mono",
+   "karakter": "puha mono; címkék, idő, ár"
+  },
+  {
+   "csalad": "Fira Code",
+   "tengely": "wght@400..700",
+   "szerep": "cimke-mono",
+   "karakter": "kód"
+  },
+  {
+   "csalad": "IBM Plex Mono",
+   "tengely": "wght@400;500;700",
+   "szerep": "cimke-mono",
+   "karakter": "technikás mono"
+  },
+  {
+   "csalad": "JetBrains Mono",
+   "tengely": "wght@400..800",
+   "szerep": "cimke-mono",
+   "karakter": "kód-mono; tech (NE párosítsd Anton+Caveat-tel)"
+  },
+  {
+   "csalad": "Martian Mono",
+   "tengely": "wght@400..800",
+   "szerep": "cimke-mono",
+   "karakter": "széles, modern mono"
+  },
+  {
+   "csalad": "Red Hat Mono",
+   "tengely": "wght@400..700",
+   "szerep": "cimke-mono",
+   "karakter": "kerekded mono"
+  },
+  {
+   "csalad": "Sometype Mono",
+   "tengely": "wght@400..700",
+   "szerep": "cimke-mono",
+   "karakter": "barátságos mono"
+  },
+  {
+   "csalad": "Space Mono",
+   "tengely": "wght@400;700",
+   "szerep": "cimke-mono",
+   "karakter": "retro-tech mono"
+  },
+  {
+   "csalad": "Spline Sans Mono",
+   "tengely": "wght@400..700",
+   "szerep": "cimke-mono",
+   "karakter": "modern mono"
+  },
+  {
+   "csalad": "Xanh Mono",
+   "tengely": "",
+   "szerep": "cimke-mono",
+   "karakter": "serifes mono; szerkesztőségi"
+  },
+  {
+   "csalad": "Abril Fatface",
+   "tengely": "",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Climate Crisis",
+   "tengely": "",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Heebo",
+   "tengely": "wght@400..900",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Libre Caslon Display",
+   "tengely": "",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Rozha One",
+   "tengely": "",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Spectral",
+   "tengely": "wght@400;700",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Whisper",
+   "tengely": "",
+   "szerep": "egyeb",
+   "karakter": ""
+  },
+  {
+   "csalad": "Amatic SC",
+   "tengely": "wght@400;700",
+   "szerep": "kez",
+   "karakter": "krétás, keskeny nagybetűs; krétatábla, piac"
+  },
+  {
+   "csalad": "Architects Daughter",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "tervrajz-kézírás; építész, kivitelező"
+  },
+  {
+   "csalad": "Caveat",
+   "tengely": "wght@400..700",
+   "szerep": "kez",
+   "karakter": "laza kézírás; jegyzet, személyes megjegyzés"
+  },
+  {
+   "csalad": "Covered By Your Grace",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "filctoll, dinamikus; sport, fiatalos"
+  },
+  {
+   "csalad": "Delicious Handrawn",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "vastag kézzel rajzolt; food, gyerek"
+  },
+  {
+   "csalad": "Grape Nuts",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "ceruzás; jegyzet"
+  },
+  {
+   "csalad": "Indie Flower",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "kerekded kézírás; játékos"
+  },
+  {
+   "csalad": "Itim",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "puha; családi"
+  },
+  {
+   "csalad": "Just Another Hand",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "keskeny filc; jegyzet"
+  },
+  {
+   "csalad": "Kalam",
+   "tengely": "wght@400;700",
+   "szerep": "kez",
+   "karakter": "tollas kézírás; tanár, coach"
+  },
+  {
+   "csalad": "Knewave",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "ecsetes, vastag; street, sport"
+  },
+  {
+   "csalad": "Mali",
+   "tengely": "wght@400;700",
+   "szerep": "kez",
+   "karakter": "gyerekes, kerek; óvoda, játék"
+  },
+  {
+   "csalad": "Mynerve",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "gyors jegyzet"
+  },
+  {
+   "csalad": "Nerko One",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "vastag, játékos; food"
+  },
+  {
+   "csalad": "Pangolin",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "vidám; gyerek"
+  },
+  {
+   "csalad": "Patrick Hand",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "tiszta, olvasható kézírás; gyerek, kávézó"
+  },
+  {
+   "csalad": "Playpen Sans",
+   "tengely": "wght@400..800",
+   "szerep": "kez",
+   "karakter": "jól olvasható kézírás; oktatás"
+  },
+  {
+   "csalad": "Shadows Into Light",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "vékony filctoll; kreatív"
+  },
+  {
+   "csalad": "Square Peg",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "vékony, laza"
+  },
+  {
+   "csalad": "Sriracha",
+   "tengely": "",
+   "szerep": "kez",
+   "karakter": "ecsetes, vidám; street food"
+  },
+  {
+   "csalad": "Allura",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "finom kalligráfia; esküvő"
+  },
+  {
+   "csalad": "Bad Script",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "valódi kézírás; aláírás"
+  },
+  {
+   "csalad": "Borel",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "iskolás folyóírás; oktatás, gyerek"
+  },
+  {
+   "csalad": "Comforter Brush",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "ecsetes; kézműves"
+  },
+  {
+   "csalad": "Courgette",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "lendületes; kávézó"
+  },
+  {
+   "csalad": "Dancing Script",
+   "tengely": "wght@400..700",
+   "szerep": "kez-script",
+   "karakter": "folyó írás; cukrászda, virág"
+  },
+  {
+   "csalad": "Great Vibes",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "kalligráfia; esküvő, luxus"
+  },
+  {
+   "csalad": "Kaushan Script",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "ecsetes script; olasz, food, kézműves"
+  },
+  {
+   "csalad": "Marck Script",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "folyó kézírás; személyes aláírás"
+  },
+  {
+   "csalad": "Oooh Baby",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "könnyed script; kreatív"
+  },
+  {
+   "csalad": "Pacifico",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "retro script (túlhasznált, óvatosan); fagyi, strand"
+  },
+  {
+   "csalad": "Parisienne",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "párizsi script; cukrászda"
+  },
+  {
+   "csalad": "Sacramento",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "vékony script; szépség"
+  },
+  {
+   "csalad": "Yellowtail",
+   "tengely": "",
+   "szerep": "kez-script",
+   "karakter": "retro ecsetes; bár, autós"
+  },
+  {
+   "csalad": "Nunito",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-kerek",
+   "karakter": "kerekített; gyerek, család"
+  },
+  {
+   "csalad": "Quicksand",
+   "tengely": "wght@400..700",
+   "szerep": "szoveg-kerek",
+   "karakter": "kerek, könnyű; wellness, gyerek"
+  },
+  {
+   "csalad": "Albert Sans",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "geometrikus; design"
+  },
+  {
+   "csalad": "Atkinson Hyperlegible",
+   "tengely": "wght@400;700",
+   "szerep": "szoveg-sans",
+   "karakter": "akadálymentes; egészségügy, idősek"
+  },
+  {
+   "csalad": "Be Vietnam Pro",
+   "tengely": "wght@400;500;600;700",
+   "szerep": "szoveg-sans",
+   "karakter": "modern, tiszta; szolgáltatás"
+  },
+  {
+   "csalad": "Cabin",
+   "tengely": "wght@400..700",
+   "szerep": "szoveg-sans",
+   "karakter": "humanista; turizmus"
+  },
+  {
+   "csalad": "Commissioner",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "nyugodt, széles; tanácsadó"
+  },
+  {
+   "csalad": "DM Sans",
+   "tengely": "opsz,wght@9..40,400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "geometrikus, semleges; bármi"
+  },
+  {
+   "csalad": "Figtree",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "barátságos, jól olvasható; bármi"
+  },
+  {
+   "csalad": "Geologica",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "szerkezetes; tech"
+  },
+  {
+   "csalad": "Golos Text",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "semleges; bármi"
+  },
+  {
+   "csalad": "Hanken Grotesk",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "tiszta, semleges; bármi"
+  },
+  {
+   "csalad": "IBM Plex Sans",
+   "tengely": "wght@400;500;600;700",
+   "szerep": "szoveg-sans",
+   "karakter": "technikás; IT, mérnök"
+  },
+  {
+   "csalad": "Instrument Sans",
+   "tengely": "wght@400..700",
+   "szerep": "szoveg-sans",
+   "karakter": "precíz, szerkesztőségi; párja: Instrument Serif"
+  },
+  {
+   "csalad": "Karla",
+   "tengely": "wght@400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "barátságos grotesk; kreatív, food"
+  },
+  {
+   "csalad": "Lexend",
+   "tengely": "wght@400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "nagyon jól olvasható; oktatás, egészség"
+  },
+  {
+   "csalad": "Libre Franklin",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "klasszikus grotesk; média"
+  },
+  {
+   "csalad": "Manrope",
+   "tengely": "wght@400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "modern, nyitott; tech, pénzügy"
+  },
+  {
+   "csalad": "Mulish",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "minimalista; szépség, wellness"
+  },
+  {
+   "csalad": "Nunito Sans",
+   "tengely": "opsz,wght@6..12,400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "puha, olvasható; egészség, család"
+  },
+  {
+   "csalad": "Onest",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "modern, tiszta; bármi"
+  },
+  {
+   "csalad": "Plus Jakarta Sans",
+   "tengely": "wght@400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "modern, elegáns; szolgáltatás"
+  },
+  {
+   "csalad": "Public Sans",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "semleges, hivatalos; önkormányzat, jogi"
+  },
+  {
+   "csalad": "Raleway",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "elegáns, vékony; szépség (vigyázz a számokkal)"
+  },
+  {
+   "csalad": "Readex Pro",
+   "tengely": "wght@400..700",
+   "szerep": "szoveg-sans",
+   "karakter": "olvasható, modern; oktatás"
+  },
+  {
+   "csalad": "Source Sans 3",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-sans",
+   "karakter": "semleges, sokoldalú; bármi"
+  },
+  {
+   "csalad": "Wix Madefor Text",
+   "tengely": "wght@400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "tiszta, modern; bármi"
+  },
+  {
+   "csalad": "Work Sans",
+   "tengely": "wght@400..800",
+   "szerep": "szoveg-sans",
+   "karakter": "tiszta, kicsit groteszk; bármi"
+  },
+  {
+   "csalad": "Alegreya",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-serif",
+   "karakter": "kalligrafikus serif; kultúra, oktatás"
+  },
+  {
+   "csalad": "Crimson Pro",
+   "tengely": "wght@400..900",
+   "szerep": "szoveg-serif",
+   "karakter": "klasszikus könyv; kiadó, múzeum"
+  },
+  {
+   "csalad": "Literata",
+   "tengely": "opsz,wght@7..72,400..900",
+   "szerep": "szoveg-serif",
+   "karakter": "olvasható könyv-serif; blog, oktatás"
+  },
+  {
+   "csalad": "Lora",
+   "tengely": "wght@400..700",
+   "szerep": "szoveg-serif",
+   "karakter": "kellemes, kerekded serif; coach, pszichológus"
+  },
+  {
+   "csalad": "Source Serif 4",
+   "tengely": "opsz,wght@8..60,400..900",
+   "szerep": "szoveg-serif",
+   "karakter": "semleges serif; jogi, pénzügyi"
+  },
+  {
+   "csalad": "Inter",
+   "tengely": "wght@400..900",
+   "szerep": "tiltott-reflex",
+   "karakter": "AI-reflex betű, csak ha az ügyfél saját betűje"
+  },
+  {
+   "csalad": "Inter Tight",
+   "tengely": "wght@400..900",
+   "szerep": "tiltott-reflex",
+   "karakter": "AI-reflex betű, csak ha az ügyfél saját betűje"
+  },
+  {
+   "csalad": "Lato",
+   "tengely": "wght@400;700",
+   "szerep": "tiltott-reflex",
+   "karakter": "AI-reflex betű, csak ha az ügyfél saját betűje"
+  },
+  {
+   "csalad": "Montserrat",
+   "tengely": "wght@400..900",
+   "szerep": "tiltott-reflex",
+   "karakter": "AI-reflex betű, csak ha az ügyfél saját betűje"
+  },
+  {
+   "csalad": "Open Sans",
+   "tengely": "wght@400..800",
+   "szerep": "tiltott-reflex",
+   "karakter": "AI-reflex betű, csak ha az ügyfél saját betűje"
+  },
+  {
+   "csalad": "Poppins",
+   "tengely": "wght@400;600;700",
+   "szerep": "tiltott-reflex",
+   "karakter": "AI-reflex betű, csak ha az ügyfél saját betűje"
+  }
+ ]
+}
