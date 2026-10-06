@@ -1,19 +1,15 @@
 ---
 name: webdesign-arculat-generator
 description: >
-  Webdesign ARCULAT- és DESIGNRENDSZER-GENERÁTOR egyetlen weboldal-URL-ből. Kinyeri a vállalkozás mostani oldalából a
-  logót, színeket, betűket, fotókat és tényeket, legenerálja az egyedi ikonjait (OpenAI), majd elkészít egy interaktív
-  ARCULAT-VÁLASZTÓT: a 12 arculati elemből (paletta, betűpár, ikonstílus, címsor, alcím, gomb, kártya, fotókezelés,
-  háttér-textúra, dekor, szekcióhatár, mozgás) 5-5 opciót, plusz a BEADOTT OLDAL MINDEN SZEKCIÓJÁBÓL 5-5 elrendezést,
-  mindegyik mellé megjegyzés-mezővel és „végleges” jelöléssel, alul az élő oldallal. Az alap-elemek 5 eltérő karakterben
-  (elegáns, modern, merész, barátságos, klasszikus) készülnek, mind az ügyfél márkájához igazítva; a textúra, a dekor és
-  a határ ötletei mindig az ügyfél fő témájából jönnek. Artifactként publikálva a jelölések és megjegyzések az artifact
-  adatbázisába mentődnek, a Claude közvetlenül kiolvassa. A visszajelzés után megépíti a végleges oldalt és a
-  DESIGN-RENDSZER.md-t. Használd MINDIG, ha valaki ilyet kér: "csinálj arculatot / designrendszert a weboldalamhoz",
-  "új design a főoldalamnak", "modernizáld a weboldalamat", "tervezz új weboldalt ennek a cégnek: <URL>", "milyen
-  színek, betűk, gombok legyenek", "webdesign opciók", "arculat-választó", "mutass több design-változatot", vagy csak
-  beküld egy URL-t azzal, hogy legyen szebb. Ne használd: ha csak szöveget kell írni, csak logót kell tervezni, vagy egy
-  már véglegesített designrendszerrel kell csak egy újabb aloldal (arra is jó, de akkor a 0. lépés szerint kihagyja a választót).
+  Arculat- és designrendszer-generátor egy weboldal-URL-ből. Kinyeri a cég mostani oldalából a logót, színeket,
+  betűket, fotókat és tényeket, OpenAI-jal egyedi ikonokat generál, majd interaktív ARCULAT-VÁLASZTÓT készít: 12
+  arculati elemből (paletta, betűk, ikonok, gombok, textúra, mozgás stb.) és az oldal minden szekciójából 5-5
+  opciót, megjegyzéssel és „végleges” jelöléssel. A visszajelzés alapján megépíti a végleges oldalt és a
+  DESIGN-RENDSZER.md-t. Használd, ha valaki ezt kéri: "csinálj arculatot / designrendszert a weboldalamhoz", "új
+  design a főoldalamnak", "modernizáld a weboldalamat", "tervezz új weboldalt ennek a cégnek", "milyen színek,
+  betűk, gombok legyenek", "webdesign opciók", "arculat-választó", "mutass több design-változatot", vagy csak
+  beküld egy URL-t, hogy legyen szebb. Kész designrendszerrel új aloldalhoz is jó (ilyenkor kihagyja a választót).
+  Ne használd puszta szövegíráshoz vagy logótervezéshez.
 version: 2.0.0
 ---
 
